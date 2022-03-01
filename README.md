@@ -6,5 +6,9 @@ O meu objetivo é ser um desenvolvedor JAVA e estou me dedicando pra isso😉
 
 
 
+<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzxvini&layout=compact)](https://github.com/souzxvini/github-readme-stats)</a>
+
+
+
 
 
