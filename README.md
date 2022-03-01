@@ -3,6 +3,6 @@
 Meu nome é Vinicius Souza, tenho 20 anos e estou cursando o último semestre de Análise e Desenvolvimento de Sistemas.
 O meu objetivo é ser um desenvolvedor JAVA e estou me dedicando pra isso😉
 
-[![souzxvini's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/souzxvini/github-readme-stats)
+[![souzxvini's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzxvini)](https://github.com/souzxvini/github-readme-stats)
 
 
