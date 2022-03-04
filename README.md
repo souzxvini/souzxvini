@@ -1,7 +1,7 @@
 ### Hi 👋
 
 My name is Vinicius Souza, i'm 20 years old and i'm coursing the last semester of System Analisys and Development.
-My objective is to be a JAVA Developer and i'm dedicating myself for this.😉
+My objective is to be a Full-Stack Java Developer and i'm dedicating myself for this.😉
 
 ### Technologys💻
 
