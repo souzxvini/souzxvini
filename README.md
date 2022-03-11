@@ -9,7 +9,7 @@ My objective is to be a Full-Stack Java Developer and i'm dedicating myself for 
 
 ### Contact📱
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-6683b51a6/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-oliveira/)
 
 ### Hobbies😅
 ![After Efccts](https://aleen42.github.io/badges/src/after_effects.svg)
