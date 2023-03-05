@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Vinicius Souza and i'm a Java Developer at Blend IT!
+My name is Vinicius Souza and i'm a Java Developer at ABS - Asset Banking System
 
 ### Technologys💻
 
