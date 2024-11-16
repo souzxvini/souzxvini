@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Vinicius Souza and i'm a Full Stack Developer at ABS - Asset Banking System
+My name is Vinicius Souza and i'm a Full Stack Developer at Itaú Unibanco
 
 ### Technologys💻
 
