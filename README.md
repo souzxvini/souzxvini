@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/-SQL-08658d?logo=postgresql&logoColor=fff&style=for-the-badge" />
 </p>
 
---
-
-### 🌐 Onde me encontrar
+<p align="center">
+  ### 🌐 Onde me encotrar
+</p>
 
 - [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/vinicius-souza-oliveira/))
 
