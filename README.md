@@ -6,9 +6,6 @@
   🌎 São Paulo • 23 anos
 </p>
 
-
-### 🧰 Minhas Stacks
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Angular-bc002d?logo=angular&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Java-ec8d0f?logo=java&logoColor=fff&style=for-the-badge" />
