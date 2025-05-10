@@ -20,18 +20,8 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinisouzaoliveira&show_icons=true&theme=github_dark&hide_title=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vinisouzaoliveira&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-- vinicius.souza@email.com
+- [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/vinicius-souza-oliveira/))
 
 ---
