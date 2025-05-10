@@ -1,6 +1,10 @@
 ## Olá, eu sou o Vinicius 👋
 
-Sou Engenheiro de Software no **Itaú Unibanco** e tenho 23 anos. Atuo diariamente com foco em desenvolvimento web, cloud computing e automação de infraestrutura.
+Atualmente sou Engenheiro de Software no **Itaú Unibanco** e tenho 23 anos.
+
+<br>
+
+🌎 São Paulo • 23 anos
 
 ---
 
