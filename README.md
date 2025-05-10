@@ -5,6 +5,7 @@
   👨‍💻 Engenheiro de Software no <strong>Itaú Unibanco</strong><br>
   🌎 São Paulo • 23 anos
 </p>
+
 ---
 
 ### 🧰 Minhas Stacks
