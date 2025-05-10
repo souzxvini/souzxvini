@@ -1,4 +1,4 @@
-<h2 align="center">Olá, eu sou o Vinicius👋</h2>
+<h1 align="center">Olá, eu sou o Vinicius👋</h1>
   
 <p align="center">
   👨‍💻 Engenheiro de Software no <strong>Itaú Unibanco</strong><br>
