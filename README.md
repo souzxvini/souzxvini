@@ -1,9 +1,7 @@
 <h1 align="center">Olá, eu sou o Vinicius👋</h1>
 
-<p align="center">
   👨‍💻 Engenheiro de Software no <strong>Itaú Unibanco</strong><br>
   🌎 São Paulo • 23 anos
-</p>
 
 ---
 
