@@ -1,13 +1,15 @@
 <h1 align="center">Olá, eu sou o Vinicius👋</h1>
 
+  
+<p align="center">
   👨‍💻 Engenheiro de Software no <strong>Itaú Unibanco</strong><br>
   🌎 São Paulo • 23 anos
-
+</p>
 ---
 
 ### 🧰 Minhas Stacks
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Angular-bc002d?logo=angular&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Java-ec8d0f?logo=java&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-ffcd3e?logo=python&logoColor=fff&style=for-the-badge" />
