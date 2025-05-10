@@ -1,8 +1,6 @@
 ## Olá, eu sou o Vinicius 👋
 
-Sou Engenheiro de Software no **Itaú Unibanco** e tenho 23 anos. Atuo diariamente com foco em desenvolvimento web, cloud computing e automação de infraestrutura. Gosto de criar soluções robustas, escaláveis e com código limpo.
-
-Atualmente moro em **São Paulo - SP**, onde contribuo para sistemas de alta performance, com times multidisciplinares e foco em inovação.
+Sou Engenheiro de Software no **Itaú Unibanco** e tenho 23 anos. Atuo diariamente com foco em desenvolvimento web, cloud computing e automação de infraestrutura.
 
 ---
 
@@ -22,13 +20,3 @@ Atualmente moro em **São Paulo - SP**, onde contribuo para sistemas de alta per
 ### 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-souza-oliveira/)
-- 📬 vinicius.souza@email.com  
-- 🧑‍💻 [GitHub](https://github.com/seu-usuario)
-
----
-
-### 🔍 Curiosidades
-
-- 👨‍🏫 Apaixonado por ensinar e aprender novas tecnologias  
-- 🧩 Gosto de resolver problemas complexos com soluções simples  
-- ☁️ Entusiasta de cloud e DevOps  
