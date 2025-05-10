@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Vinicius👋</h1>
+<h2 align="center">Olá, eu sou o Vinicius👋</h2>
 
   
 <p align="center">
