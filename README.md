@@ -1,9 +1,6 @@
 ## Olá, eu sou o Vinicius 👋
 
 Atualmente sou Engenheiro de Software no **Itaú Unibanco** e tenho 23 anos.
-
-<br>
-
 🌎 São Paulo • 23 anos
 
 ---
