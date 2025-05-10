@@ -1,23 +1,27 @@
-## Olá, eu sou o Vinicius 👋
-
-Atualmente sou Engenheiro de Software no **Itaú Unibanco** e tenho 23 anos.
-🌎 São Paulo • 23 anos
-
----
-
-### ⚙️ Stacks que utilizo
+<h1 align="center">Olá, eu sou o Vinicius👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-bc002d?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ec8d0f?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-ffcd3e?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-2b3544?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-6448e9?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-08658d?style=for-the-badge&logo=postgresql&logoColor=white" />
+  👨‍💻 Engenheiro de Software no <strong>Itaú Unibanco</strong><br>
+  🌎 São Paulo • 23 anos
 </p>
 
 ---
 
-### 📫 Contato
+### 🧰 Minhas Stacks
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-souza-oliveira/)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Angular-bc002d?logo=angular&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Java-ec8d0f?logo=java&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-ffcd3e?logo=python&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-AWS-2b3544?logo=amazonaws&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Terraform-6448e9?logo=terraform&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SQL-08658d?logo=postgresql&logoColor=fff&style=for-the-badge" />
+</p>
+
+---
+
+### 🌐 Onde me encontrar
+
+- [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/vinicius-souza-oliveira/))
+
+---
