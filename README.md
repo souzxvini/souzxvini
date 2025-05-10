@@ -1,5 +1,4 @@
 <h2 align="center">Olá, eu sou o Vinicius👋</h2>
-
   
 <p align="center">
   👨‍💻 Engenheiro de Software no <strong>Itaú Unibanco</strong><br>
@@ -15,7 +14,7 @@
   <img src="https://img.shields.io/badge/-SQL-08658d?logo=postgresql&logoColor=fff&style=for-the-badge" />
 </p>
 
----
+--
 
 ### 🌐 Onde me encontrar
 
