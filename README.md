@@ -6,7 +6,6 @@
   🌎 São Paulo • 23 anos
 </p>
 
----
 
 ### 🧰 Minhas Stacks
 
@@ -25,4 +24,3 @@
 
 - [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/vinicius-souza-oliveira/))
 
----
