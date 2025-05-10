@@ -2,7 +2,6 @@
 
 <p align="center">
   👨‍💻 Engenheiro de Software no <strong>Itaú Unibanco</strong><br>
-  💡 Apaixonado por tecnologia, inovação e boas práticas de desenvolvimento<br>
   🌎 São Paulo • 23 anos
 </p>
 
